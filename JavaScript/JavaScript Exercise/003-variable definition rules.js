@@ -39,6 +39,6 @@ let x = 1;  // bu dogru kullanim degil :(
 // ### Ek Bilgi:
 // 1: boolean tanimlarken is/has kullanimi:
 let isActive = true
-let hasPassword = false
+let hasPassword = false 
 
 // 2: Line Length < 80
