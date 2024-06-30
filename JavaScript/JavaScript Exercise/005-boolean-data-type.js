@@ -26,3 +26,13 @@ Boolean(0 === 0) // true
 
 // Not: Karar Yapilari Kisminda Tekrar Anlatilacak
 Boolean(userName.length > 0) // true
+
+//Extra
+var x = 1;
+   console.log(Boolean(x)); // returns true
+
+   var y = 0;
+   console.log(Boolean(y)); // returns false
+   
+   var z = "0";
+   console.log(Boolean(z)); // returns true
